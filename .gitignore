@@ -11,6 +11,7 @@
 /docs
 /tests/kendo-themes/tests/visual/styles
 /cypress
+libs/coverage
 
 # dependencies
 /node_modules
